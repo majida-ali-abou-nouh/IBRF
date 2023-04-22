@@ -1,0 +1,248 @@
+.primeira {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    width: 90%;
+    margin: 30px 0;
+    margin-top: 0;
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.título {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+#mesclado {
+    background: linear-gradient(90deg, #0000ff, #ff0000, #ffff00);
+    color: #ffffff;
+}
+
+.coluna {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    color: #333;
+}
+
+.coluna2 {
+    text-align: center;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    color: #333;
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 5;
+    margin-bottom: 2;
+}
+
+.shadow:hover {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+}
+
+.shadow {
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 5;
+    margin-bottom: 2;
+    cursor: pointer;
+    transition: all 0.6;
+}
+
+.foto {
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.list {
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#maior {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    height: 105px;
+}
+
+.list {
+    font-size: 16px;
+    line-height: 5;
+    margin-bottom: 2;
+    text-align: center;
+}
+
+.paragrafo {
+    font-size: 16px;
+    line-height: 5;
+    margin-bottom: 2;
+    text-align: center;
+}
+
+.winner {
+    color: hwb(229 38% 6%);
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+
+#mesclado {
+    background-image: linear-gradient(90deg, rgb(50, 50, 236), #ff0000, #ffff00);
+    height: 75px;
+    text-align: center;
+}
+
+.cabeça {
+    background-color: #ddd;
+    height: 30px;
+}
+
+.destaque {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+
+.segunda {
+    font-size: 20;
+}
+
+.topo {
+    background-color: aqua;
+}
+
+.segunda {
+    font-family: 'Times New Roman', Times, serif;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10;
+    border: 3px solid #55d009;
+    border-collapse: collapse;
+
+}
+
+.cabeça2 {
+    height: 70px;
+    background-color: #55d009;
+    color: #fff;
+
+}
+
+.tamanho {
+    font-size: 20px;
+    text-align: center;
+}
+
+.list2 {
+    text-align: center;
+    padding-left: 70px;
+
+}
+
+#tam2 {
+    padding-left: 68px;
+}
+
+.fonte {
+    font-size: 18px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+#HT:hover {
+    color: #ff0000;
+
+}
+
+#CSS:hover {
+    color: rgb(23, 128, 208);
+}
+
+#JS:hover {
+    color: rgb(175, 117, 8);
+}
+
+#LP:hover {
+    color: hsl(240, 100%, 42%);
+}
+
+.terceira {
+    font-family: 'Times New Roman', Times, serif;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10;
+    border: 3px solid rgb(167, 111, 8);
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+.destaque3 {
+    text-align: center;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabeça3 {
+    height: 60px;
+    background-color: rgb(167, 111, 8);
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+
+.tamanho3 {
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.list3 {
+    text-align: center;
+    padding-left: 100px;
+}
+
+.fonte3 {
+    text-align: center;
+    padding-left: 80px;
+}
+
+.logo3 {
+    width: 95px;
+    height: 75px;
+    margin: 20px;
+}
+
+#ins {
+    background: linear-gradient(90deg, rgb(126, 61, 126), rgb(213, 31, 31) , rgb(243, 195, 107));
+    height: 50px;
+    
+}
+
+#tam {
+    padding-left: 80px;
+}
